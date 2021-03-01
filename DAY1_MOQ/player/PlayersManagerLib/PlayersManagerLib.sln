@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayersManagerLib", "PlayersManagerLib.csproj", "{7D13685E-2C67-4ACF-8FF0-564B89E38777}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayerManagerTests", "..\PlayerManagerTests\PlayerManagerTests.csproj", "{A527D6E8-6759-4DC2-8B94-9361933FBCBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D13685E-2C67-4ACF-8FF0-564B89E38777}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D13685E-2C67-4ACF-8FF0-564B89E38777}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D13685E-2C67-4ACF-8FF0-564B89E38777}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D13685E-2C67-4ACF-8FF0-564B89E38777}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A527D6E8-6759-4DC2-8B94-9361933FBCBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A527D6E8-6759-4DC2-8B94-9361933FBCBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A527D6E8-6759-4DC2-8B94-9361933FBCBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A527D6E8-6759-4DC2-8B94-9361933FBCBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F2391FB-1045-495C-9E5E-815F95E66914}
+	EndGlobalSection
+EndGlobal
