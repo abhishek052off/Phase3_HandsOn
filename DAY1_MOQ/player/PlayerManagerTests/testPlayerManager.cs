@@ -28,7 +28,7 @@ namespace PlayerManagerTests
         {
             Player newPlayer = Player.RegisterNewPlayer(name, mockPlayer.Object);
             Assert.AreEqual(name, newPlayer.Name);
-            Assert.AreEqual(23,newPlayer.Age);
+            Assert.AreEqual(43,newPlayer.Age);
             Assert.AreEqual("India",newPlayer.Country);
             Assert.AreEqual(30,newPlayer.NoOfMatches);
         }

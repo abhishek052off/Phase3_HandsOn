@@ -1,0 +1,14 @@
+C:\Users\abhis\source\repos\Calculator\bin\Release\netcoreapp3.1\Calculator.exe
+C:\Users\abhis\source\repos\Calculator\bin\Release\netcoreapp3.1\Calculator.deps.json
+C:\Users\abhis\source\repos\Calculator\bin\Release\netcoreapp3.1\Calculator.runtimeconfig.json
+C:\Users\abhis\source\repos\Calculator\bin\Release\netcoreapp3.1\Calculator.runtimeconfig.dev.json
+C:\Users\abhis\source\repos\Calculator\bin\Release\netcoreapp3.1\Calculator.dll
+C:\Users\abhis\source\repos\Calculator\bin\Release\netcoreapp3.1\Calculator.pdb
+C:\Users\abhis\source\repos\Calculator\obj\Release\netcoreapp3.1\Calculator.Form1.resources
+C:\Users\abhis\source\repos\Calculator\obj\Release\netcoreapp3.1\Calculator.csproj.GenerateResource.cache
+C:\Users\abhis\source\repos\Calculator\obj\Release\netcoreapp3.1\Calculator.AssemblyInfoInputs.cache
+C:\Users\abhis\source\repos\Calculator\obj\Release\netcoreapp3.1\Calculator.AssemblyInfo.cs
+C:\Users\abhis\source\repos\Calculator\obj\Release\netcoreapp3.1\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\abhis\source\repos\Calculator\obj\Release\netcoreapp3.1\Calculator.dll
+C:\Users\abhis\source\repos\Calculator\obj\Release\netcoreapp3.1\Calculator.pdb
+C:\Users\abhis\source\repos\Calculator\obj\Release\netcoreapp3.1\Calculator.genruntimeconfig.cache

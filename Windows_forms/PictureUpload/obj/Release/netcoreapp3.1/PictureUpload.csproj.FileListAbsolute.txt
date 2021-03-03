@@ -1,0 +1,15 @@
+E:\handsonphase3\Windows_forms\PictureUpload\bin\Release\netcoreapp3.1\PictureUpload.exe
+E:\handsonphase3\Windows_forms\PictureUpload\bin\Release\netcoreapp3.1\PictureUpload.deps.json
+E:\handsonphase3\Windows_forms\PictureUpload\bin\Release\netcoreapp3.1\PictureUpload.runtimeconfig.json
+E:\handsonphase3\Windows_forms\PictureUpload\bin\Release\netcoreapp3.1\PictureUpload.runtimeconfig.dev.json
+E:\handsonphase3\Windows_forms\PictureUpload\bin\Release\netcoreapp3.1\PictureUpload.dll
+E:\handsonphase3\Windows_forms\PictureUpload\bin\Release\netcoreapp3.1\PictureUpload.pdb
+E:\handsonphase3\Windows_forms\PictureUpload\obj\Release\netcoreapp3.1\PictureUpload.csprojAssemblyReference.cache
+E:\handsonphase3\Windows_forms\PictureUpload\obj\Release\netcoreapp3.1\PictureUpload.Form1.resources
+E:\handsonphase3\Windows_forms\PictureUpload\obj\Release\netcoreapp3.1\PictureUpload.csproj.GenerateResource.cache
+E:\handsonphase3\Windows_forms\PictureUpload\obj\Release\netcoreapp3.1\PictureUpload.AssemblyInfoInputs.cache
+E:\handsonphase3\Windows_forms\PictureUpload\obj\Release\netcoreapp3.1\PictureUpload.AssemblyInfo.cs
+E:\handsonphase3\Windows_forms\PictureUpload\obj\Release\netcoreapp3.1\PictureUpload.csproj.CoreCompileInputs.cache
+E:\handsonphase3\Windows_forms\PictureUpload\obj\Release\netcoreapp3.1\PictureUpload.dll
+E:\handsonphase3\Windows_forms\PictureUpload\obj\Release\netcoreapp3.1\PictureUpload.pdb
+E:\handsonphase3\Windows_forms\PictureUpload\obj\Release\netcoreapp3.1\PictureUpload.genruntimeconfig.cache

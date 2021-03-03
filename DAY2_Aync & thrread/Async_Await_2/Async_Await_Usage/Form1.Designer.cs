@@ -3,9 +3,7 @@ namespace Async_Await_Usage
 {
     partial class Form1
     {
-        /// <summary>
-        /// Required designer variable.
-        /// </summary>
+       
         private System.ComponentModel.IContainer components = null;
 
         /// <summary>
@@ -39,7 +37,7 @@ namespace Async_Await_Usage
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(110, 51);
             this.button2.TabIndex = 0;
-            this.button2.Text = "Process the File";
+            this.button2.Text = "COUNT CHAR\r\n";
             this.button2.UseVisualStyleBackColor = true;
             this.button2.Click += new System.EventHandler(this.button2_Click);
             // 

@@ -45,7 +45,7 @@ namespace UnitTest
         [TestCase(0, 5, 0)]
         [TestCase(-5, 5, -1)]
         [TestCase(-5, -5, 1)]
-        [TestCase(10,0,0)]
+        [TestCase(10,5,2)]
         public void TestDiv(int a, int b, int expected)
         {
             try

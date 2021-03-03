@@ -1,0 +1,10 @@
+E:\handsonphase3\DAY2_Aync & thrread\Async_Await_2\Async_Await_Usage\bin\Release\Async_Await_Usage.exe.config
+E:\handsonphase3\DAY2_Aync & thrread\Async_Await_2\Async_Await_Usage\bin\Release\Async_Await_Usage.exe
+E:\handsonphase3\DAY2_Aync & thrread\Async_Await_2\Async_Await_Usage\bin\Release\Async_Await_Usage.pdb
+E:\handsonphase3\DAY2_Aync & thrread\Async_Await_2\Async_Await_Usage\obj\Release\Async_Await_Usage.Form1.resources
+E:\handsonphase3\DAY2_Aync & thrread\Async_Await_2\Async_Await_Usage\obj\Release\Async_Await_Usage.Properties.Resources.resources
+E:\handsonphase3\DAY2_Aync & thrread\Async_Await_2\Async_Await_Usage\obj\Release\Async_FileProcessing_winform.csproj.GenerateResource.cache
+E:\handsonphase3\DAY2_Aync & thrread\Async_Await_2\Async_Await_Usage\obj\Release\Async_FileProcessing_winform.csproj.CoreCompileInputs.cache
+E:\handsonphase3\DAY2_Aync & thrread\Async_Await_2\Async_Await_Usage\obj\Release\Async_Await_Usage.exe
+E:\handsonphase3\DAY2_Aync & thrread\Async_Await_2\Async_Await_Usage\obj\Release\Async_Await_Usage.pdb
+E:\handsonphase3\DAY2_Aync & thrread\Async_Await_2\Async_Await_Usage\obj\Release\Async_FileProcessing_winform.csprojAssemblyReference.cache
