@@ -1,0 +1,22 @@
+﻿@model IEnumerable<string>
+
+
+
+
+@foreach (string s in Model)
+{
+
+<div>
+    @{
+    string val="";
+    if (s == "Amazon")
+    {
+    val = "bold";
+    }
+
+    <span style="font-weight:@val;"> @s </span>
+    <br>}
+</div>
+
+}
+
