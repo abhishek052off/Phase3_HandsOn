@@ -1,0 +1,17 @@
+E:\handsonphase3\PracticeCheck\GenericMedicine_TestLibrary\obj\Debug\GenericMedicine_TestLibrary.csprojAssemblyReference.cache
+E:\handsonphase3\PracticeCheck\GenericMedicine_TestLibrary\obj\Debug\GenericMedicine_TestLibrary.csproj.CoreCompileInputs.cache
+E:\handsonphase3\PracticeCheck\GenericMedicine_TestLibrary\obj\Debug\TestLibrary.dll
+E:\handsonphase3\PracticeCheck\GenericMedicine_TestLibrary\obj\Debug\TestLibrary.pdb
+E:\handsonphase3\PracticeCheck\GenericMedicine_TestLibrary\bin\Debug\NUnit3.TestAdapter.dll
+E:\handsonphase3\PracticeCheck\GenericMedicine_TestLibrary\bin\Debug\NUnit3.TestAdapter.pdb
+E:\handsonphase3\PracticeCheck\GenericMedicine_TestLibrary\bin\Debug\nunit.engine.dll
+E:\handsonphase3\PracticeCheck\GenericMedicine_TestLibrary\bin\Debug\nunit.engine.api.dll
+E:\handsonphase3\PracticeCheck\GenericMedicine_TestLibrary\bin\Debug\nunit.engine.core.dll
+E:\handsonphase3\PracticeCheck\GenericMedicine_TestLibrary\bin\Debug\TestLibrary.dll
+E:\handsonphase3\PracticeCheck\GenericMedicine_TestLibrary\bin\Debug\TestLibrary.pdb
+E:\handsonphase3\PracticeCheck\GenericMedicine_TestLibrary\bin\Debug\GenericMedicine.exe
+E:\handsonphase3\PracticeCheck\GenericMedicine_TestLibrary\bin\Debug\nunit.framework.dll
+E:\handsonphase3\PracticeCheck\GenericMedicine_TestLibrary\bin\Debug\GenericMedicine.pdb
+E:\handsonphase3\PracticeCheck\GenericMedicine_TestLibrary\bin\Debug\GenericMedicine.exe.config
+E:\handsonphase3\PracticeCheck\GenericMedicine_TestLibrary\bin\Debug\nunit.framework.xml
+E:\handsonphase3\PracticeCheck\GenericMedicine_TestLibrary\obj\Debug\GenericMedicine_TestLibrary.csproj.CopyComplete

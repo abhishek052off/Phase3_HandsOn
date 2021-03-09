@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericMedicine", "GenericMedicine.csproj", "{BADFB703-A724-4F2F-8E56-E9E0D504A778}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericMedicine_TestLibrary", "..\GenericMedicine_TestLibrary\GenericMedicine_TestLibrary.csproj", "{3C93E9B9-CFFB-4599-8254-67FE6A3C439C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BADFB703-A724-4F2F-8E56-E9E0D504A778}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BADFB703-A724-4F2F-8E56-E9E0D504A778}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BADFB703-A724-4F2F-8E56-E9E0D504A778}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BADFB703-A724-4F2F-8E56-E9E0D504A778}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C93E9B9-CFFB-4599-8254-67FE6A3C439C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C93E9B9-CFFB-4599-8254-67FE6A3C439C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C93E9B9-CFFB-4599-8254-67FE6A3C439C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C93E9B9-CFFB-4599-8254-67FE6A3C439C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {611E4AE7-89D3-4781-8C80-09AB1B883A99}
+	EndGlobalSection
+EndGlobal

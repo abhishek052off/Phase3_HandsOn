@@ -1,0 +1,12 @@
+C:\Users\abhis\source\repos\GenericMedicine\bin\Debug\GenericMedicine.exe.config
+C:\Users\abhis\source\repos\GenericMedicine\bin\Debug\GenericMedicine.exe
+C:\Users\abhis\source\repos\GenericMedicine\bin\Debug\GenericMedicine.pdb
+C:\Users\abhis\source\repos\GenericMedicine\obj\Debug\GenericMedicine.csproj.CoreCompileInputs.cache
+C:\Users\abhis\source\repos\GenericMedicine\obj\Debug\GenericMedicine.exe
+C:\Users\abhis\source\repos\GenericMedicine\obj\Debug\GenericMedicine.pdb
+E:\handsonphase3\PracticeCheck\GenericMedicine\bin\Debug\GenericMedicine.exe.config
+E:\handsonphase3\PracticeCheck\GenericMedicine\bin\Debug\GenericMedicine.exe
+E:\handsonphase3\PracticeCheck\GenericMedicine\bin\Debug\GenericMedicine.pdb
+E:\handsonphase3\PracticeCheck\GenericMedicine\obj\Debug\GenericMedicine.csproj.CoreCompileInputs.cache
+E:\handsonphase3\PracticeCheck\GenericMedicine\obj\Debug\GenericMedicine.exe
+E:\handsonphase3\PracticeCheck\GenericMedicine\obj\Debug\GenericMedicine.pdb
