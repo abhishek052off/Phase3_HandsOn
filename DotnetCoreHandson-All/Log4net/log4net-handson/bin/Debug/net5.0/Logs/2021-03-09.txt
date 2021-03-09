@@ -1,0 +1,18 @@
+2021-03-09 11:08:51,294 [1] INFO  App  
+ Application started. Press Ctrl+C to shut down. 
+ 
+2021-03-09 11:08:51,321 [1] INFO  App  
+ Hosting environment: Development 
+ 
+2021-03-09 11:08:51,344 [1] INFO  App  
+ Content root path: C:\Users\abhis\source\repos\log4net-handson 
+ 
+2021-03-09 11:08:51,414 [8] INFO  App  
+ Log System Initialized 
+ 
+2021-03-09 11:08:51,428 [8] INFO  App  
+ Logger Logging Information... 
+ 
+2021-03-09 11:08:53,436 [9] INFO  App  
+ Logger Logging Information... 
+ 
