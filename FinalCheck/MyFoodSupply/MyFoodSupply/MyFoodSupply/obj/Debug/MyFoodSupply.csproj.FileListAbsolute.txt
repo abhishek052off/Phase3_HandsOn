@@ -4,3 +4,10 @@ E:\MyFoodSupply\MyFoodSupply\MyFoodSupply\bin\Debug\MyFoodSupply.pdb
 E:\MyFoodSupply\MyFoodSupply\MyFoodSupply\obj\Debug\MyFoodSupply.csproj.CoreCompileInputs.cache
 E:\MyFoodSupply\MyFoodSupply\MyFoodSupply\obj\Debug\MyFoodSupply.exe
 E:\MyFoodSupply\MyFoodSupply\MyFoodSupply\obj\Debug\MyFoodSupply.pdb
+E:\handsonphase3\FinalCheck\MyFoodSupply\MyFoodSupply\MyFoodSupply\bin\Debug\MyFoodSupply.exe.config
+E:\handsonphase3\FinalCheck\MyFoodSupply\MyFoodSupply\MyFoodSupply\bin\Debug\MyFoodSupply.exe
+E:\handsonphase3\FinalCheck\MyFoodSupply\MyFoodSupply\MyFoodSupply\bin\Debug\MyFoodSupply.pdb
+E:\handsonphase3\FinalCheck\MyFoodSupply\MyFoodSupply\MyFoodSupply\obj\Debug\MyFoodSupply.csprojAssemblyReference.cache
+E:\handsonphase3\FinalCheck\MyFoodSupply\MyFoodSupply\MyFoodSupply\obj\Debug\MyFoodSupply.csproj.CoreCompileInputs.cache
+E:\handsonphase3\FinalCheck\MyFoodSupply\MyFoodSupply\MyFoodSupply\obj\Debug\MyFoodSupply.exe
+E:\handsonphase3\FinalCheck\MyFoodSupply\MyFoodSupply\MyFoodSupply\obj\Debug\MyFoodSupply.pdb

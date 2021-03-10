@@ -10,7 +10,7 @@ namespace GenericMedicine_TestLibrary
         private Program program;
         private  Medicine medicine;
         [SetUp]
-        public void inti()
+        public void init()
         {
             program = new Program();
             medicine = new Medicine()
@@ -25,17 +25,18 @@ namespace GenericMedicine_TestLibrary
 
 
         //Test With Correct Input Data
-
+        [Test]
         [TestCase(10,"2021-10-05","Dummy Address",250)]
         [TestCase(20, "2021-10-05", "Dummy Address", 500)]
         [TestCase(5, "2021-10-05", "Dummy Address", 125)]
-        public void CreateCartonDetails_OnCorrectValues_ReturnsValidObject(int medicinestripcount,
+        public void CreateCartonDetails_CorrectValues_ReturnValid(int medicinestripcount,
             DateTime LaunchDate, string retailerAddress, double ExpectedtotalAmount)
         {
             Console.WriteLine("Expiry Date : "+medicine.ExpiryDate);
             Console.WriteLine("Launch Date : "+LaunchDate);
             CartonDetail carton = program.CreateCartonDetail(medicinestripcount, LaunchDate, retailerAddress, medicine);
             //test for medicine equality
+            Assert.That(carton, Is.TypeOf<CartonDetail>());
             Assert.AreEqual(carton.Medicine.Name, medicine.Name);
             Assert.AreEqual(carton.Medicine.GenericMedicineName, medicine.GenericMedicineName);
             Assert.AreEqual(carton.Medicine.Composition, medicine.Composition);
@@ -51,7 +52,7 @@ namespace GenericMedicine_TestLibrary
 
 
         //Tests with negative strip count
-
+        [Test]
         [TestCase(-10, "2020-10-05", "Dummy Address", 250)]
         [TestCase(-20, "2020-10-05", "Dummy Address", 500)]
         [TestCase(-5, "2020-10-05", "Dummy Address", 125)]
@@ -64,10 +65,11 @@ namespace GenericMedicine_TestLibrary
 
 
         //Tests with DateOf Launch After Expiry Data
+        [Test]
         [TestCase(10, "2024-10-05", "Dummy Address", 250)]
         [TestCase(20, "2025-10-05", "Dummy Address", 500)]
         [TestCase(5, "2026-10-05", "Dummy Address", 125)]
-        public void CreateCartonDetails_OnDateOfLaunchAfterExpiry_ReturnsNullObject( int medicinestripcount,
+        public void CreateCartonDetails_LaunchAfterExpiry_Exception( int medicinestripcount,
             DateTime LaunchDate, string retailerAddress, double ExpectedtotalAmount)
         {
             var ex = Assert.Throws<Exception>(() => program.CreateCartonDetail(medicinestripcount, LaunchDate, retailerAddress,medicine));
@@ -76,10 +78,11 @@ namespace GenericMedicine_TestLibrary
 
 
         //Tests With Null Value For Medicine Object
+        [Test]
         [TestCase(10, "2020-10-05", "Dummy Address", 250)]
         [TestCase(20, "2020-10-05", "Dummy Address", 500)]
         [TestCase(5, "2020-10-05", "Dummy Address", 125)]
-        public void CreateCartonDetails_OnNullMedicine_ReturnsNullObject(int medicinestripcount,
+        public void CreateCartonDetails_NullMedicine_ReturnsNull(int medicinestripcount,
             DateTime LaunchDate, string retailerAddress, double ExpectedtotalAmount)
         {
             medicine = null;

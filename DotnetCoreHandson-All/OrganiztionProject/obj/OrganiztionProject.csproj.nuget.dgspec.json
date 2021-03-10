@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\handsonphase3\\DotnetCoreHandson1\\OrganiztionProject\\OrganiztionProject.csproj": {}
+    "E:\\handsonphase3\\DotnetCoreHandson-All\\OrganiztionProject\\OrganiztionProject.csproj": {}
   },
   "projects": {
-    "E:\\handsonphase3\\DotnetCoreHandson1\\OrganiztionProject\\OrganiztionProject.csproj": {
+    "E:\\handsonphase3\\DotnetCoreHandson-All\\OrganiztionProject\\OrganiztionProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\handsonphase3\\DotnetCoreHandson1\\OrganiztionProject\\OrganiztionProject.csproj",
+        "projectUniqueName": "E:\\handsonphase3\\DotnetCoreHandson-All\\OrganiztionProject\\OrganiztionProject.csproj",
         "projectName": "OrganiztionProject",
-        "projectPath": "E:\\handsonphase3\\DotnetCoreHandson1\\OrganiztionProject\\OrganiztionProject.csproj",
+        "projectPath": "E:\\handsonphase3\\DotnetCoreHandson-All\\OrganiztionProject\\OrganiztionProject.csproj",
         "packagesPath": "C:\\Users\\abhis\\.nuget\\packages\\",
-        "outputPath": "E:\\handsonphase3\\DotnetCoreHandson1\\OrganiztionProject\\obj\\",
+        "outputPath": "E:\\handsonphase3\\DotnetCoreHandson-All\\OrganiztionProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\abhis\\AppData\\Roaming\\NuGet\\NuGet.Config",

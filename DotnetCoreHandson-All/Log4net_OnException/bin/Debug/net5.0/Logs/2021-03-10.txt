@@ -1,0 +1,39 @@
+2021-03-10 10:43:05,688 [1] INFO  App  
+ Application started. Press Ctrl+C to shut down. 
+ 
+2021-03-10 10:43:05,719 [1] INFO  App  
+ Hosting environment: Development 
+ 
+2021-03-10 10:43:05,731 [1] INFO  App  
+ Content root path: C:\Users\abhis\source\repos\Log4net_OnException 
+ 
+2021-03-10 10:43:05,948 [4] INFO  App  
+ Exception Demonstrated in Index Of Home 
+ 
+2021-03-10 10:45:51,009 [1] INFO  App  
+ Application started. Press Ctrl+C to shut down. 
+ 
+2021-03-10 10:45:51,038 [1] INFO  App  
+ Hosting environment: Development 
+ 
+2021-03-10 10:45:51,047 [1] INFO  App  
+ Content root path: C:\Users\abhis\source\repos\Log4net_OnException 
+ 
+2021-03-10 10:45:51,208 [9] INFO  App  
+ Exception Demonstrated in Index Of Home 
+ 
+2021-03-10 10:46:45,166 [1] INFO  App  
+ Application started. Press Ctrl+C to shut down. 
+ 
+2021-03-10 10:46:45,206 [1] INFO  App  
+ Hosting environment: Development 
+ 
+2021-03-10 10:46:45,237 [1] INFO  App  
+ Content root path: C:\Users\abhis\source\repos\Log4net_OnException 
+ 
+2021-03-10 10:46:45,418 [9] INFO  App  
+ Exception Demonstrated in Index Of Home 
+ 
+2021-03-10 10:49:38,424 [9] ERROR App  
+ Exception Demonstrated in Index Of Home 
+ 

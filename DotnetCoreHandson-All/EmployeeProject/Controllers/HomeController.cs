@@ -16,15 +16,24 @@ namespace EmployeeProject.Controllers
 
 
         private readonly ILogger<HomeController> _logger;
-
+        private List<Employee> EmployeeList;
         public HomeController(ILogger<HomeController> logger)
         {
             _logger = logger;
+            EmployeeList = new List<Employee>(){
+
+                new Employee(1,"John",1000,true),
+                new Employee(2,"Smith",5000,false),
+                new Employee(3,"Mark",5000,false),
+                new Employee(4,"Mary",6000,false),
+                new Employee(5,"Bill",6000,true)
+
+            };
         }
 
         public IActionResult Index()
         {
-            return View(GetEmployeeDetails());
+            return View(EmployeeList);
         }
 
         public IActionResult Privacy()
@@ -38,20 +47,12 @@ namespace EmployeeProject.Controllers
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
 
-        public List<Employee> GetEmployeeDetails()
+        public IActionResult GetEmployeeDetails()
         {
-            List<Employee> EmployeeList = new List<Employee>(){
-
-                 new Employee(1,"John",1000,true),
-                 new Employee(2,"Smith",5000,false),
-                 new Employee(3,"Mark",5000,false),
-                 new Employee(4,"Mary",6000,false)
-
-             };
+           
 
 
-            return EmployeeList;
-
+            return View(EmployeeList);
 
         }
              

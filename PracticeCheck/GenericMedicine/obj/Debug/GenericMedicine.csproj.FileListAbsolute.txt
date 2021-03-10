@@ -10,3 +10,4 @@ E:\handsonphase3\PracticeCheck\GenericMedicine\bin\Debug\GenericMedicine.pdb
 E:\handsonphase3\PracticeCheck\GenericMedicine\obj\Debug\GenericMedicine.csproj.CoreCompileInputs.cache
 E:\handsonphase3\PracticeCheck\GenericMedicine\obj\Debug\GenericMedicine.exe
 E:\handsonphase3\PracticeCheck\GenericMedicine\obj\Debug\GenericMedicine.pdb
+E:\handsonphase3\PracticeCheck\GenericMedicine\obj\Debug\GenericMedicine.csprojAssemblyReference.cache

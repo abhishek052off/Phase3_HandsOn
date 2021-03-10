@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\handsonphase3\\DotnetCoreHandson1\\EmployeeProject\\EmployeeProject.csproj": {}
+    "E:\\handsonphase3\\DotnetCoreHandson-All\\EmployeeProject\\EmployeeProject.csproj": {}
   },
   "projects": {
-    "E:\\handsonphase3\\DotnetCoreHandson1\\EmployeeProject\\EmployeeProject.csproj": {
+    "E:\\handsonphase3\\DotnetCoreHandson-All\\EmployeeProject\\EmployeeProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\handsonphase3\\DotnetCoreHandson1\\EmployeeProject\\EmployeeProject.csproj",
+        "projectUniqueName": "E:\\handsonphase3\\DotnetCoreHandson-All\\EmployeeProject\\EmployeeProject.csproj",
         "projectName": "EmployeeProject",
-        "projectPath": "E:\\handsonphase3\\DotnetCoreHandson1\\EmployeeProject\\EmployeeProject.csproj",
+        "projectPath": "E:\\handsonphase3\\DotnetCoreHandson-All\\EmployeeProject\\EmployeeProject.csproj",
         "packagesPath": "C:\\Users\\abhis\\.nuget\\packages\\",
-        "outputPath": "E:\\handsonphase3\\DotnetCoreHandson1\\EmployeeProject\\obj\\",
+        "outputPath": "E:\\handsonphase3\\DotnetCoreHandson-All\\EmployeeProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\abhis\\AppData\\Roaming\\NuGet\\NuGet.Config",

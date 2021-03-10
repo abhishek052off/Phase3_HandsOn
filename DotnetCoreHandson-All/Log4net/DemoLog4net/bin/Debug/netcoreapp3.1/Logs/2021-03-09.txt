@@ -1,0 +1,59 @@
+2021-03-09 07:52:48,076 [1] INFO  App  
+ Log System Initialized 
+ 
+2021-03-09 07:52:48,275 [1] INFO  App  
+ ***********Starting logger ************ 
+ 
+2021-03-09 07:52:49,860 [1] INFO  App  
+ Log System Initialized 
+ 
+2021-03-09 07:52:50,236 [1] INFO  App  
+ Log System Initialized 
+ 
+2021-03-09 07:52:50,249 [1] INFO  App  
+ Log System Initialized 
+ 
+2021-03-09 07:52:50,861 [1] INFO  App  
+ Application started. Press Ctrl+C to shut down. 
+ 
+2021-03-09 07:52:50,893 [1] INFO  App  
+ Hosting environment: Development 
+ 
+2021-03-09 07:52:50,911 [1] INFO  App  
+ Content root path: E:\DemoLog4net 
+ 
+2021-03-09 07:52:51,622 [5] INFO  App  
+ Log System Initialized 
+ 
+2021-03-09 07:53:46,916 [5] INFO  App  
+ System.Exception: Exception in main
+   at DemoLog4net.Controllers.HomeController.Index() in E:\DemoLog4net\Controllers\HomeController.cs:line 24
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextExceptionFilterAsync>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted) 
+ 
+2021-03-09 07:53:54,443 [5] INFO  App  
+ System.Exception: Exception in main
+   at DemoLog4net.Controllers.HomeController.Index() in E:\DemoLog4net\Controllers\HomeController.cs:line 24
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextExceptionFilterAsync>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted) 
+ 

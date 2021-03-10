@@ -19,16 +19,16 @@ namespace GenericMedicine_TestLibrary
         }
 
         //Test With Correct Values 
-
+        [Test]
         [TestCase("Tylenol","Paracetamol", "PARACETAMOL 500mg", "2022-10-05",32.25)]
         [TestCase("Modalert", "Modafinil", "Modafinil 100mg", "2021-10-07", 159)]
         [TestCase("Ativan", "Lorazopam", "Lorazopam 1mg", "2023-06-05", 97.30)]
 
-        public void CreateMedicineDetails_WithCorrectParameters_ReturnsValidObject(string Name,string GenericName,
+        public void CreateMedicineDetails_CorrectInput_ReturnsValid(string Name,string GenericName,
             string Composition,DateTime ExpiryDate,double PricePerStrip)
         {
             Medicine medicine = program.CreateMedicineDetail(Name,GenericName, Composition, ExpiryDate, PricePerStrip);
-
+            Assert.That(medicine, Is.TypeOf<Medicine>());
             Assert.AreEqual(Name,medicine.Name);
             Assert.AreEqual(GenericName,medicine.GenericMedicineName);
             Assert.AreEqual(Composition,medicine.Composition);
@@ -37,12 +37,12 @@ namespace GenericMedicine_TestLibrary
         }
 
         //Test with values Empty Value for Generic Medicine name
-
+        [Test]
         [TestCase("Tylenol", "", "PARACETAMOL 500mg", "2022-10-05", 32.25)]
         [TestCase("Modalert", "", "Modafinil 100mg", "2021-10-07", 159)]
         [TestCase("Ativan", "", "Lorazopam 1mg", "2023-06-05", 97.30)]
         
-        public void CreateMedicineDetails_EmptyValueForGenericName_ThrowsException(string Name,
+        public void CreateMedicineDetails_EmptyGeneric_Exception(string Name,
             string GenericName, string Composition, DateTime ExpiryDate, double PricePerStrip)
         {
             var ex = Assert.Throws<Exception>(() => program.CreateMedicineDetail(Name, GenericName, Composition, ExpiryDate, PricePerStrip));
@@ -51,12 +51,12 @@ namespace GenericMedicine_TestLibrary
 
 
         //Test with negative values for price
-
+        [Test]
         [TestCase("Tylenol", "Paracetamol", "PARACETAMOL 500mg", "2022-10-05", -32.25)]
         [TestCase("Modalert", "Modafinil", "Modafinil 100mg", "2021-10-07", -159)]
         [TestCase("Ativan", "Lorazopam", "Lorazopam 1mg", "2023-06-05", -97.30)]
 
-        public void CreateMedicineDetails_LesThanZeroForPricePerStrip_ThrowsException(string Name,
+        public void CreateMedicineDetails_NegativePrice_ThrowsException(string Name,
             string GenericName, string Composition, DateTime ExpiryDate, double PricePerStrip)
         { 
             var ex =  Assert.Throws<Exception>(()=> program.CreateMedicineDetail(Name, GenericName, Composition, ExpiryDate, PricePerStrip));
@@ -64,7 +64,7 @@ namespace GenericMedicine_TestLibrary
         }
 
 
-
+        [Test]
         [TestCase("Tylenol", "Paracetamol", "PARACETAMOL 500mg", "2012-10-05", 32.25)]
         [TestCase("Modalert", "Modafinil", "Modafinil 100mg", "2011-10-07", 159)]
         [TestCase("Ativan", "Lorazopam", "Lorazopam 1mg", "2013-06-05", 97.30)]

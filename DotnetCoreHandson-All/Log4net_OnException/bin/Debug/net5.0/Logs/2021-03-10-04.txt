@@ -1,0 +1,6 @@
+2021-03-10 13:04:37,441 [9] ERROR App  
+ Exception Demonstrated in Index Of Home 
+ 
+2021-03-10 13:04:48,903 [5] ERROR App  
+ Exception Demonstrated in Index Of Home 
+ 

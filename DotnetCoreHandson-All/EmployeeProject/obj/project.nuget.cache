@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "m6UVWprSBbV0u8rCX3xTwrbTxMtwapiJGuyoiPP3dy4I7O9dALeLq+OalUMhmcLQYMbvG58eJx9ymP62GEn5Jg==",
+  "dgSpecHash": "LgcwJqqsCks1qBDmJWu8UF7FO8lpt/J2sU9HYOESxCt7sO4ECZFgEZq/Ts0VkT6JvuolqpiM/P54EB6a0ORBjg==",
   "success": true,
-  "projectFilePath": "E:\\handsonphase3\\DotnetCoreHandson1\\EmployeeProject\\EmployeeProject.csproj",
+  "projectFilePath": "E:\\handsonphase3\\DotnetCoreHandson-All\\EmployeeProject\\EmployeeProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\abhis\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\abhis\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",

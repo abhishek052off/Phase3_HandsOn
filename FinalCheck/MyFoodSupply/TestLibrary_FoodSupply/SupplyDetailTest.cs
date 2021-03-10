@@ -34,6 +34,8 @@ namespace TestLibrary_FoodSupply
         { 
             var  supplyDetail = program.CreateSupplyDetail(Count, requestDate, sellerName, packingCharge, foodDetail);
 
+
+            Assert.That(supplyDetail, Is.TypeOf<SupplyDetail>());
             Assert.AreEqual(Count,supplyDetail.Count);
             Assert.AreEqual(requestDate,supplyDetail.RequestDate);
             Assert.AreEqual(sellerName,supplyDetail.SellerName);

@@ -1,21 +1,61 @@
-﻿
+﻿@* *@
+@* @using EmployeeProject.Models *@
+@* @model IEnumerable<Employee> *@
+@* @{ *@
+@* *@
+@* *@
+@*     <table class="table"> *@
+@*         <tr> *@
+@*             <th>@Html.DisplayNameFor(m=> m.Id)</th> *@
+@*             <th>@Html.DisplayNameFor(m=> m.Name)</th> *@
+@*             <th>@Html.DisplayNameFor(m => m.Salary)</th> *@
+@*             <th>@Html.DisplayNameFor(m=> m.IsPermanent)</th> *@
+@*         </tr> *@
+@*         @foreach (var item in Model) *@
+@*         { *@
+@*             string val=""; *@
+@*             if (item.IsPermanent == true) *@
+@*             { *@
+@*                 val = "bold"; *@
+@*             } *@
+@* *@
+@*             <tr style="font-weight:@val;" > *@
+@*                 <td>@Html.DisplayFor(modelItem => item.Id)</td> *@
+@*                 <td>@Html.DisplayFor(modelItem => item.Name)</td> *@
+@*                 <td>@Html.DisplayFor(modelItem => item.Salary)</td> *@
+@*                 <td>@Html.DisplayFor(modelItem => item.IsPermanent)</td> *@
+@*             </tr> *@
+@*         } *@
+@*     </table> *@
+@* } *@
+@* *@
+
+
 @using EmployeeProject.Models
 @model IEnumerable<Employee>
 
-<table class="table">
-    <tr>
-    <th>@Html.DisplayNameFor(m=> m.Id)</th>
-    <th>@Html.DisplayNameFor(m=> m.Name)</th>
-    <th>@Html.DisplayNameFor(m => m.Salary)</th>
-    <th>@Html.DisplayNameFor(m=> m.IsPermanent)</th>
-    </tr>
-    @foreach (var item in Model)
+
+<h1>EmployeeDetails</h1>
+<div class="row" style="font-weight: bold">
+
+    <span class="col-md-3"> @Html.DisplayNameFor(m=>m.Id)</span>
+    <span class="col-md-3"> @Html.DisplayNameFor(m=>m.Name)</span>
+    <span class="col-md-3">  @Html.DisplayNameFor(m=>m.Salary)</span>
+    <span class="col-md-3">  @Html.DisplayNameFor(m=>m.IsPermanent)</span>
+</div>
+@foreach (var item in Model)
+{
+    string val="";
+    if (item.IsPermanent == true)
     {
-<tr>
-    <td>@Html.DisplayFor(modelItem => item.Id)</td>
-    <td>@Html.DisplayFor(modelItem => item.Name)</td>
-    <td>@Html.DisplayFor(modelItem => item.Salary)</td>
-    <td>@Html.DisplayFor(modelItem => item.IsPermanent)</td>
-</tr>
+        val = "bold";
     }
-</table>
+    <div class="row" style="font-weight: @val">
+
+        <span class="col-md-3"> @Html.DisplayFor(modelItem => item.Id)</span>
+        <span class="col-md-3"> @Html.DisplayFor(modelItem => item.Name)</span>
+        <span class="col-md-3">  @Html.DisplayFor(modelItem => item.Salary)</span>
+        <span class="col-md-3">  @Html.DisplayFor(modelItem => item.IsPermanent)</span>
+       
+    </div>
+}

@@ -28,6 +28,8 @@ namespace TestLibrary_FoodSupply
         {
             var foodDetail = program.CreateFoodDetail(name,dishType,expiryDate,price);
 
+
+            Assert.That(foodDetail, Is.TypeOf<FoodDetail>());
             Assert.AreEqual(name,foodDetail.Name);
             Assert.AreEqual(dishType,(int)foodDetail.DishType);
             Assert.AreEqual(expiryDate,foodDetail.ExpiryDate);
