@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yxGLWFAdKfJGc9/hkpwCrUtgmzuFtN7ztxBW68i3sWPrUUiObFZt/984Q0HL6bS+OGAlOnS5miSURPBTangnrg==",
+  "dgSpecHash": "q4qQ9u9Pctdd0k1TCtd3zt2onR0wtpB0WrxCNXXURt9zuPqJ7hfSj3gbLQV6ggse3fQrDgLQcK4r0pN7g/gDRg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\abhis\\source\\repos\\Handson_Entity\\Handson_Entity.csproj",
+  "projectFilePath": "E:\\handsonphase3\\DotnetCoreHandson-All\\Handson_Entity\\Handson_Entity.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\abhis\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\abhis\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

@@ -56,6 +56,7 @@ namespace GenericMedicine_TestLibrary
         [TestCase(-10, "2020-10-05", "Dummy Address", 250)]
         [TestCase(-20, "2020-10-05", "Dummy Address", 500)]
         [TestCase(-5, "2020-10-05", "Dummy Address", 125)]
+        //[TestCase(5, "2021-10-05", "Dummy Address", 125)] 
         public void CreateCartonDetails_OnNegativeStripCount_ReturnsNullObject(int medicinestripcount,
             DateTime LaunchDate, string retailerAddress, double ExpectedtotalAmount)
         {
@@ -69,6 +70,7 @@ namespace GenericMedicine_TestLibrary
         [TestCase(10, "2024-10-05", "Dummy Address", 250)]
         [TestCase(20, "2025-10-05", "Dummy Address", 500)]
         [TestCase(5, "2026-10-05", "Dummy Address", 125)]
+       //[TestCase(5, "2021-10-05", "Dummy Address", 125)]
         public void CreateCartonDetails_LaunchAfterExpiry_Exception( int medicinestripcount,
             DateTime LaunchDate, string retailerAddress, double ExpectedtotalAmount)
         {

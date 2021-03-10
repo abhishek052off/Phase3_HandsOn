@@ -55,6 +55,7 @@ namespace TestLibrary_FoodSupply
         [TestCase(0, "2021-05-07", "Restaurant_name", 50, 1050)]
         [TestCase(-20, "2021-04-09", "Restaurant_name", 50, 2050)]
         [TestCase(-5, "2021-07-07", "Restaurant_name", 50, 550)]
+        //[TestCase(10, "2021-05-07", "Restaurant_name", 50, 1050)]
         public void CreateSupplyDetail_OnNegativeOrZeroFoodItem_ThrowsException(int foodItemCount, DateTime requestDate, string sellerName, double packingCharge,double expectedTotal)
         {
             var ex = Assert.Throws<Exception>(() => program.CreateSupplyDetail(foodItemCount, requestDate, sellerName, packingCharge, foodDetail));
@@ -65,6 +66,7 @@ namespace TestLibrary_FoodSupply
         [TestCase(10, "2021-02-07", "Restaurant_name", 50, 1050)]
         [TestCase(20, "2011-01-09", "Restaurant_name", 50, 2050)]
         [TestCase(5, "2020-07-07", "Restaurant_name", 50, 550)]
+        //[TestCase(10, "2021-05-07", "Restaurant_name", 50, 1050)]
         public void CreateSupplyDetail_RequestDateInPast_ThrowsException(int foodItemCount, DateTime requestDate, string sellerName, double packingCharge, double expectedTotal)
         {
            var ex =  Assert.Throws<Exception>(() => program.CreateSupplyDetail(foodItemCount, requestDate, sellerName, packingCharge, foodDetail));
@@ -72,12 +74,12 @@ namespace TestLibrary_FoodSupply
         }
 
         [Test]
-        [TestCase(10, "2021-05-07", "Restaurant_name", 50, 1050)]
-        [TestCase(20, "2021-04-09", "Restaurant_name", 50, 2050)]
-        [TestCase(5, "2021-07-07", "Restaurant_name", 50, 550)]
-        public void CreateSupplyDetail_OnNullFoodDetail_ThrowsException(int foodItemCount, DateTime requestDate, string sellerName, double packingCharge,double expectedTotal)  
+        [TestCase(10, "2021-05-07", "Restaurant_name", 50, 1050,null)]
+        [TestCase(20, "2021-04-09", "Restaurant_name", 50, 2050,null)]
+       // [TestCase(5, "2021-07-07", "Restaurant_name", 50, 550,1)]
+        public void CreateSupplyDetail_OnNullFoodDetail_ThrowsException(int foodItemCount, DateTime requestDate, string sellerName, double packingCharge,double expectedTotal,FoodDetail foodDetail)  
         {
-            foodDetail = null;
+           
             var supplyDetail = program.CreateSupplyDetail(foodItemCount, requestDate, sellerName, packingCharge, foodDetail);
             Assert.IsNull(supplyDetail);
         }

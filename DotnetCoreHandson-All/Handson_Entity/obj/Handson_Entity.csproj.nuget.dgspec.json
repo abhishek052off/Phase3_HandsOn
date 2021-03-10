@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\abhis\\source\\repos\\Handson_Entity\\Handson_Entity.csproj": {}
+    "E:\\handsonphase3\\DotnetCoreHandson-All\\Handson_Entity\\Handson_Entity.csproj": {}
   },
   "projects": {
-    "C:\\Users\\abhis\\source\\repos\\Handson_Entity\\Handson_Entity.csproj": {
+    "E:\\handsonphase3\\DotnetCoreHandson-All\\Handson_Entity\\Handson_Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\abhis\\source\\repos\\Handson_Entity\\Handson_Entity.csproj",
+        "projectUniqueName": "E:\\handsonphase3\\DotnetCoreHandson-All\\Handson_Entity\\Handson_Entity.csproj",
         "projectName": "Handson_Entity",
-        "projectPath": "C:\\Users\\abhis\\source\\repos\\Handson_Entity\\Handson_Entity.csproj",
+        "projectPath": "E:\\handsonphase3\\DotnetCoreHandson-All\\Handson_Entity\\Handson_Entity.csproj",
         "packagesPath": "C:\\Users\\abhis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\abhis\\source\\repos\\Handson_Entity\\obj\\",
+        "outputPath": "E:\\handsonphase3\\DotnetCoreHandson-All\\Handson_Entity\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\abhis\\AppData\\Roaming\\NuGet\\NuGet.Config",

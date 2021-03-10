@@ -41,7 +41,8 @@ namespace GenericMedicine_TestLibrary
         [TestCase("Tylenol", "", "PARACETAMOL 500mg", "2022-10-05", 32.25)]
         [TestCase("Modalert", "", "Modafinil 100mg", "2021-10-07", 159)]
         [TestCase("Ativan", "", "Lorazopam 1mg", "2023-06-05", 97.30)]
-        
+        //[TestCase("Ativan", "Lorazopam", "Lorazopam 1mg", "2023-06-05", 97.30)]
+
         public void CreateMedicineDetails_EmptyGeneric_Exception(string Name,
             string GenericName, string Composition, DateTime ExpiryDate, double PricePerStrip)
         {
@@ -55,6 +56,7 @@ namespace GenericMedicine_TestLibrary
         [TestCase("Tylenol", "Paracetamol", "PARACETAMOL 500mg", "2022-10-05", -32.25)]
         [TestCase("Modalert", "Modafinil", "Modafinil 100mg", "2021-10-07", -159)]
         [TestCase("Ativan", "Lorazopam", "Lorazopam 1mg", "2023-06-05", -97.30)]
+        //[TestCase("Ativan", "Lorazopam", "Lorazopam 1mg", "2023-06-05", 97.30)]
 
         public void CreateMedicineDetails_NegativePrice_ThrowsException(string Name,
             string GenericName, string Composition, DateTime ExpiryDate, double PricePerStrip)
@@ -68,6 +70,7 @@ namespace GenericMedicine_TestLibrary
         [TestCase("Tylenol", "Paracetamol", "PARACETAMOL 500mg", "2012-10-05", 32.25)]
         [TestCase("Modalert", "Modafinil", "Modafinil 100mg", "2011-10-07", 159)]
         [TestCase("Ativan", "Lorazopam", "Lorazopam 1mg", "2013-06-05", 97.30)]
+       // [TestCase("Ativan", "Lorazopam", "Lorazopam 1mg", "2023-06-05", 97.30)]
         public void CreateMedicineDetails_ExpiryLessThanCurrent_ThrowsException(string Name,
             string GenericName, string Composition, DateTime ExpiryDate, double PricePerStrip)
         {

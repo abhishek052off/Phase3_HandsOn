@@ -41,6 +41,7 @@ namespace TestLibrary_FoodSupply
         [TestCase("", 2, "2021-04-01", 80)]
         [TestCase("", 2, "2021-04-01", 80)]
         [TestCase("", 3, "2023-03-11", 150)]
+        //[TestCase("Fries", 2, "2022-04-01", 80)]
         public void CreateFoodDetails_OnEmptyFoodName_ThrowsException(string name, int dishType, DateTime expiryDate, double price)
         {
             var ex = Assert.Throws<Exception>(() => program.CreateFoodDetail(name, dishType, expiryDate, price));
@@ -53,6 +54,7 @@ namespace TestLibrary_FoodSupply
         [TestCase("Biriyani", 1, "2021-03-01", -120)]
         [TestCase("Fries", 2, "2021-04-01", -80)]
         [TestCase("Brownie", 3, "2023-03-11", -150)]
+        //[TestCase("Fries", 2, "2022-04-01", 80)]
         public void CreateFoodDetails_OnNegativeValueForPrice_ThrowsException(string name, int dishType, DateTime expiryDate, double price)
         {
             var ex = Assert.Throws<Exception>(() => program.CreateFoodDetail(name, dishType, expiryDate, price));
@@ -66,6 +68,7 @@ namespace TestLibrary_FoodSupply
         [TestCase("Biriyani", 1, "2011-03-01", 120)]
         [TestCase("Fries", 2, "2011-04-01", 80)]
         [TestCase("Brownie", 3, "2013-03-11", 150)]
+        //[TestCase("Fries", 2, "2022-04-01", 80)]
         public void CreateFoodDetails_OnPastExpiryDate_ThrowsException(string name, int dishType, DateTime expiryDate, double price)
         {
             var ex = Assert.Throws<Exception>(() => program.CreateFoodDetail(name, dishType, expiryDate, price));

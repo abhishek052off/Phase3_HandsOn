@@ -32,8 +32,7 @@ namespace Log4net_OnException
                         Assembly.GetEntryAssembly(),
                         typeof(log4net.Repository.Hierarchy.Hierarchy));
                     XmlConfigurator.Configure(repo, log4netConfig["log4net"]);
-                    // The first log to be written 
-                   // _logger.Info("Log System Initialized");
+               
                 }
             }
             catch (Exception ex)

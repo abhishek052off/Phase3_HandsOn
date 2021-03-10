@@ -28,7 +28,7 @@ namespace Log4net_OnException
             services.AddSingleton<ILoggerManager, LoggerManager>();
             services.AddMvc(options =>
             {
-                options.Filters.Add(new HandleExceptionAttribute());
+                options.Filters.Add(new HandleExceptionFilter());
             });
         }
 

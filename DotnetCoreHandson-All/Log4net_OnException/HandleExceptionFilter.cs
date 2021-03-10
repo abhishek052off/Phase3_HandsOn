@@ -10,14 +10,14 @@ using System.Threading.Tasks;
 
 namespace Log4net_OnException
 {
-    public class HandleExceptionAttribute : ExceptionFilterAttribute
+    public class HandleExceptionFilter : IExceptionFilter
     {
         private readonly ILoggerManager logger;
-        public HandleExceptionAttribute()
+        public HandleExceptionFilter()
         {
             this.logger = new LoggerManager();
         }
-        public override void OnException(ExceptionContext context)
+        public  void OnException(ExceptionContext context)
         {
             var result = new ViewResult { ViewName = "CustomError" };
             var modelMetadata = new EmptyModelMetadataProvider();
