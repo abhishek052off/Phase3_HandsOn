@@ -1,0 +1,16 @@
+E:\handsonphase3\DesignPrinciples--all Handson\MediatorHandson\bin\Debug\net5.0\MediatorHandson.exe
+E:\handsonphase3\DesignPrinciples--all Handson\MediatorHandson\bin\Debug\net5.0\MediatorHandson.deps.json
+E:\handsonphase3\DesignPrinciples--all Handson\MediatorHandson\bin\Debug\net5.0\MediatorHandson.runtimeconfig.json
+E:\handsonphase3\DesignPrinciples--all Handson\MediatorHandson\bin\Debug\net5.0\MediatorHandson.runtimeconfig.dev.json
+E:\handsonphase3\DesignPrinciples--all Handson\MediatorHandson\bin\Debug\net5.0\MediatorHandson.dll
+E:\handsonphase3\DesignPrinciples--all Handson\MediatorHandson\bin\Debug\net5.0\ref\MediatorHandson.dll
+E:\handsonphase3\DesignPrinciples--all Handson\MediatorHandson\bin\Debug\net5.0\MediatorHandson.pdb
+E:\handsonphase3\DesignPrinciples--all Handson\MediatorHandson\obj\Debug\net5.0\MediatorHandson.csprojAssemblyReference.cache
+E:\handsonphase3\DesignPrinciples--all Handson\MediatorHandson\obj\Debug\net5.0\MediatorHandson.GeneratedMSBuildEditorConfig.editorconfig
+E:\handsonphase3\DesignPrinciples--all Handson\MediatorHandson\obj\Debug\net5.0\MediatorHandson.AssemblyInfoInputs.cache
+E:\handsonphase3\DesignPrinciples--all Handson\MediatorHandson\obj\Debug\net5.0\MediatorHandson.AssemblyInfo.cs
+E:\handsonphase3\DesignPrinciples--all Handson\MediatorHandson\obj\Debug\net5.0\MediatorHandson.csproj.CoreCompileInputs.cache
+E:\handsonphase3\DesignPrinciples--all Handson\MediatorHandson\obj\Debug\net5.0\MediatorHandson.dll
+E:\handsonphase3\DesignPrinciples--all Handson\MediatorHandson\obj\Debug\net5.0\ref\MediatorHandson.dll
+E:\handsonphase3\DesignPrinciples--all Handson\MediatorHandson\obj\Debug\net5.0\MediatorHandson.pdb
+E:\handsonphase3\DesignPrinciples--all Handson\MediatorHandson\obj\Debug\net5.0\MediatorHandson.genruntimeconfig.cache

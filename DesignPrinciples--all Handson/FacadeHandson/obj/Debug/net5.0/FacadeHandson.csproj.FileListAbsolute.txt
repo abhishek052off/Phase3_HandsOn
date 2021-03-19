@@ -1,0 +1,16 @@
+E:\handsonphase3\DesignPrinciples--all Handson\FacadeHandson\bin\Debug\net5.0\FacadeHandson.exe
+E:\handsonphase3\DesignPrinciples--all Handson\FacadeHandson\bin\Debug\net5.0\FacadeHandson.deps.json
+E:\handsonphase3\DesignPrinciples--all Handson\FacadeHandson\bin\Debug\net5.0\FacadeHandson.runtimeconfig.json
+E:\handsonphase3\DesignPrinciples--all Handson\FacadeHandson\bin\Debug\net5.0\FacadeHandson.runtimeconfig.dev.json
+E:\handsonphase3\DesignPrinciples--all Handson\FacadeHandson\bin\Debug\net5.0\FacadeHandson.dll
+E:\handsonphase3\DesignPrinciples--all Handson\FacadeHandson\bin\Debug\net5.0\ref\FacadeHandson.dll
+E:\handsonphase3\DesignPrinciples--all Handson\FacadeHandson\bin\Debug\net5.0\FacadeHandson.pdb
+E:\handsonphase3\DesignPrinciples--all Handson\FacadeHandson\obj\Debug\net5.0\FacadeHandson.csprojAssemblyReference.cache
+E:\handsonphase3\DesignPrinciples--all Handson\FacadeHandson\obj\Debug\net5.0\FacadeHandson.GeneratedMSBuildEditorConfig.editorconfig
+E:\handsonphase3\DesignPrinciples--all Handson\FacadeHandson\obj\Debug\net5.0\FacadeHandson.AssemblyInfoInputs.cache
+E:\handsonphase3\DesignPrinciples--all Handson\FacadeHandson\obj\Debug\net5.0\FacadeHandson.AssemblyInfo.cs
+E:\handsonphase3\DesignPrinciples--all Handson\FacadeHandson\obj\Debug\net5.0\FacadeHandson.csproj.CoreCompileInputs.cache
+E:\handsonphase3\DesignPrinciples--all Handson\FacadeHandson\obj\Debug\net5.0\FacadeHandson.dll
+E:\handsonphase3\DesignPrinciples--all Handson\FacadeHandson\obj\Debug\net5.0\ref\FacadeHandson.dll
+E:\handsonphase3\DesignPrinciples--all Handson\FacadeHandson\obj\Debug\net5.0\FacadeHandson.pdb
+E:\handsonphase3\DesignPrinciples--all Handson\FacadeHandson\obj\Debug\net5.0\FacadeHandson.genruntimeconfig.cache

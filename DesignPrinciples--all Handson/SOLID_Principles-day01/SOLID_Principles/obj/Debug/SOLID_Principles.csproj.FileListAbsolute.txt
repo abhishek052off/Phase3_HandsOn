@@ -1,0 +1,7 @@
+C:\Users\abhis\Downloads\Compressed\SOLID_Principles-20210318T044450Z-001\SOLID_Principles\bin\Debug\SOLID_Principles.exe.config
+C:\Users\abhis\Downloads\Compressed\SOLID_Principles-20210318T044450Z-001\SOLID_Principles\bin\Debug\SOLID_Principles.exe
+C:\Users\abhis\Downloads\Compressed\SOLID_Principles-20210318T044450Z-001\SOLID_Principles\bin\Debug\SOLID_Principles.pdb
+C:\Users\abhis\Downloads\Compressed\SOLID_Principles-20210318T044450Z-001\SOLID_Principles\obj\Debug\SOLID_Principles.csprojAssemblyReference.cache
+C:\Users\abhis\Downloads\Compressed\SOLID_Principles-20210318T044450Z-001\SOLID_Principles\obj\Debug\SOLID_Principles.csproj.CoreCompileInputs.cache
+C:\Users\abhis\Downloads\Compressed\SOLID_Principles-20210318T044450Z-001\SOLID_Principles\obj\Debug\SOLID_Principles.exe
+C:\Users\abhis\Downloads\Compressed\SOLID_Principles-20210318T044450Z-001\SOLID_Principles\obj\Debug\SOLID_Principles.pdb

@@ -1,0 +1,16 @@
+E:\handsonphase3\DesignPrinciples--all Handson\AbstractFactoryHandsOn\bin\Debug\net5.0\AbstractFactoryHandsOn.exe
+E:\handsonphase3\DesignPrinciples--all Handson\AbstractFactoryHandsOn\bin\Debug\net5.0\AbstractFactoryHandsOn.deps.json
+E:\handsonphase3\DesignPrinciples--all Handson\AbstractFactoryHandsOn\bin\Debug\net5.0\AbstractFactoryHandsOn.runtimeconfig.json
+E:\handsonphase3\DesignPrinciples--all Handson\AbstractFactoryHandsOn\bin\Debug\net5.0\AbstractFactoryHandsOn.runtimeconfig.dev.json
+E:\handsonphase3\DesignPrinciples--all Handson\AbstractFactoryHandsOn\bin\Debug\net5.0\AbstractFactoryHandsOn.dll
+E:\handsonphase3\DesignPrinciples--all Handson\AbstractFactoryHandsOn\bin\Debug\net5.0\ref\AbstractFactoryHandsOn.dll
+E:\handsonphase3\DesignPrinciples--all Handson\AbstractFactoryHandsOn\bin\Debug\net5.0\AbstractFactoryHandsOn.pdb
+E:\handsonphase3\DesignPrinciples--all Handson\AbstractFactoryHandsOn\obj\Debug\net5.0\AbstractFactoryHandsOn.csprojAssemblyReference.cache
+E:\handsonphase3\DesignPrinciples--all Handson\AbstractFactoryHandsOn\obj\Debug\net5.0\AbstractFactoryHandsOn.GeneratedMSBuildEditorConfig.editorconfig
+E:\handsonphase3\DesignPrinciples--all Handson\AbstractFactoryHandsOn\obj\Debug\net5.0\AbstractFactoryHandsOn.AssemblyInfoInputs.cache
+E:\handsonphase3\DesignPrinciples--all Handson\AbstractFactoryHandsOn\obj\Debug\net5.0\AbstractFactoryHandsOn.AssemblyInfo.cs
+E:\handsonphase3\DesignPrinciples--all Handson\AbstractFactoryHandsOn\obj\Debug\net5.0\AbstractFactoryHandsOn.csproj.CoreCompileInputs.cache
+E:\handsonphase3\DesignPrinciples--all Handson\AbstractFactoryHandsOn\obj\Debug\net5.0\AbstractFactoryHandsOn.dll
+E:\handsonphase3\DesignPrinciples--all Handson\AbstractFactoryHandsOn\obj\Debug\net5.0\ref\AbstractFactoryHandsOn.dll
+E:\handsonphase3\DesignPrinciples--all Handson\AbstractFactoryHandsOn\obj\Debug\net5.0\AbstractFactoryHandsOn.pdb
+E:\handsonphase3\DesignPrinciples--all Handson\AbstractFactoryHandsOn\obj\Debug\net5.0\AbstractFactoryHandsOn.genruntimeconfig.cache

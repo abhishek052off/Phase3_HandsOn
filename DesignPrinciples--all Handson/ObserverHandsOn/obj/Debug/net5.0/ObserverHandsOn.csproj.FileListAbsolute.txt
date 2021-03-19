@@ -1,0 +1,16 @@
+E:\handsonphase3\DesignPrinciples--all Handson\ObserverHandsOn\bin\Debug\net5.0\ObserverHandsOn.exe
+E:\handsonphase3\DesignPrinciples--all Handson\ObserverHandsOn\bin\Debug\net5.0\ObserverHandsOn.deps.json
+E:\handsonphase3\DesignPrinciples--all Handson\ObserverHandsOn\bin\Debug\net5.0\ObserverHandsOn.runtimeconfig.json
+E:\handsonphase3\DesignPrinciples--all Handson\ObserverHandsOn\bin\Debug\net5.0\ObserverHandsOn.runtimeconfig.dev.json
+E:\handsonphase3\DesignPrinciples--all Handson\ObserverHandsOn\bin\Debug\net5.0\ObserverHandsOn.dll
+E:\handsonphase3\DesignPrinciples--all Handson\ObserverHandsOn\bin\Debug\net5.0\ref\ObserverHandsOn.dll
+E:\handsonphase3\DesignPrinciples--all Handson\ObserverHandsOn\bin\Debug\net5.0\ObserverHandsOn.pdb
+E:\handsonphase3\DesignPrinciples--all Handson\ObserverHandsOn\obj\Debug\net5.0\ObserverHandsOn.csprojAssemblyReference.cache
+E:\handsonphase3\DesignPrinciples--all Handson\ObserverHandsOn\obj\Debug\net5.0\ObserverHandsOn.GeneratedMSBuildEditorConfig.editorconfig
+E:\handsonphase3\DesignPrinciples--all Handson\ObserverHandsOn\obj\Debug\net5.0\ObserverHandsOn.AssemblyInfoInputs.cache
+E:\handsonphase3\DesignPrinciples--all Handson\ObserverHandsOn\obj\Debug\net5.0\ObserverHandsOn.AssemblyInfo.cs
+E:\handsonphase3\DesignPrinciples--all Handson\ObserverHandsOn\obj\Debug\net5.0\ObserverHandsOn.csproj.CoreCompileInputs.cache
+E:\handsonphase3\DesignPrinciples--all Handson\ObserverHandsOn\obj\Debug\net5.0\ObserverHandsOn.dll
+E:\handsonphase3\DesignPrinciples--all Handson\ObserverHandsOn\obj\Debug\net5.0\ref\ObserverHandsOn.dll
+E:\handsonphase3\DesignPrinciples--all Handson\ObserverHandsOn\obj\Debug\net5.0\ObserverHandsOn.pdb
+E:\handsonphase3\DesignPrinciples--all Handson\ObserverHandsOn\obj\Debug\net5.0\ObserverHandsOn.genruntimeconfig.cache

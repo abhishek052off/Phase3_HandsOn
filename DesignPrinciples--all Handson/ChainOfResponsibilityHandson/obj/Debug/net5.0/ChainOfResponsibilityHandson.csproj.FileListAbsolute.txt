@@ -1,0 +1,16 @@
+E:\handsonphase3\DesignPrinciples--all Handson\ChainOfResponsibilityHandson\bin\Debug\net5.0\ChainOfResponsibilityHandson.exe
+E:\handsonphase3\DesignPrinciples--all Handson\ChainOfResponsibilityHandson\bin\Debug\net5.0\ChainOfResponsibilityHandson.deps.json
+E:\handsonphase3\DesignPrinciples--all Handson\ChainOfResponsibilityHandson\bin\Debug\net5.0\ChainOfResponsibilityHandson.runtimeconfig.json
+E:\handsonphase3\DesignPrinciples--all Handson\ChainOfResponsibilityHandson\bin\Debug\net5.0\ChainOfResponsibilityHandson.runtimeconfig.dev.json
+E:\handsonphase3\DesignPrinciples--all Handson\ChainOfResponsibilityHandson\bin\Debug\net5.0\ChainOfResponsibilityHandson.dll
+E:\handsonphase3\DesignPrinciples--all Handson\ChainOfResponsibilityHandson\bin\Debug\net5.0\ref\ChainOfResponsibilityHandson.dll
+E:\handsonphase3\DesignPrinciples--all Handson\ChainOfResponsibilityHandson\bin\Debug\net5.0\ChainOfResponsibilityHandson.pdb
+E:\handsonphase3\DesignPrinciples--all Handson\ChainOfResponsibilityHandson\obj\Debug\net5.0\ChainOfResponsibilityHandson.csprojAssemblyReference.cache
+E:\handsonphase3\DesignPrinciples--all Handson\ChainOfResponsibilityHandson\obj\Debug\net5.0\ChainOfResponsibilityHandson.GeneratedMSBuildEditorConfig.editorconfig
+E:\handsonphase3\DesignPrinciples--all Handson\ChainOfResponsibilityHandson\obj\Debug\net5.0\ChainOfResponsibilityHandson.AssemblyInfoInputs.cache
+E:\handsonphase3\DesignPrinciples--all Handson\ChainOfResponsibilityHandson\obj\Debug\net5.0\ChainOfResponsibilityHandson.AssemblyInfo.cs
+E:\handsonphase3\DesignPrinciples--all Handson\ChainOfResponsibilityHandson\obj\Debug\net5.0\ChainOfResponsibilityHandson.csproj.CoreCompileInputs.cache
+E:\handsonphase3\DesignPrinciples--all Handson\ChainOfResponsibilityHandson\obj\Debug\net5.0\ChainOfResponsibilityHandson.dll
+E:\handsonphase3\DesignPrinciples--all Handson\ChainOfResponsibilityHandson\obj\Debug\net5.0\ref\ChainOfResponsibilityHandson.dll
+E:\handsonphase3\DesignPrinciples--all Handson\ChainOfResponsibilityHandson\obj\Debug\net5.0\ChainOfResponsibilityHandson.pdb
+E:\handsonphase3\DesignPrinciples--all Handson\ChainOfResponsibilityHandson\obj\Debug\net5.0\ChainOfResponsibilityHandson.genruntimeconfig.cache

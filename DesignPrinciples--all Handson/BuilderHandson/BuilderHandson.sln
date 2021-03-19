@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuilderHandson", "BuilderHandson.csproj", "{E5832AFC-6720-46E9-966C-94DE3037D4E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdapterHandson", "..\AdapterHandson\AdapterHandson.csproj", "{FE5FE9DA-7C39-409F-B4FB-83DA7D1F73B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5832AFC-6720-46E9-966C-94DE3037D4E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5832AFC-6720-46E9-966C-94DE3037D4E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5832AFC-6720-46E9-966C-94DE3037D4E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5832AFC-6720-46E9-966C-94DE3037D4E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE5FE9DA-7C39-409F-B4FB-83DA7D1F73B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE5FE9DA-7C39-409F-B4FB-83DA7D1F73B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE5FE9DA-7C39-409F-B4FB-83DA7D1F73B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE5FE9DA-7C39-409F-B4FB-83DA7D1F73B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE432DB9-ADFC-4E21-95CA-9B2DB19AE5E8}
+	EndGlobalSection
+EndGlobal

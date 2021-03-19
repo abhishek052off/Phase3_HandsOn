@@ -1,0 +1,16 @@
+E:\handsonphase3\DesignPrinciples--all Handson\SingletonHnadson\obj\Debug\net5.0\SingletonHnadson.csprojAssemblyReference.cache
+E:\handsonphase3\DesignPrinciples--all Handson\SingletonHnadson\obj\Debug\net5.0\SingletonHnadson.GeneratedMSBuildEditorConfig.editorconfig
+E:\handsonphase3\DesignPrinciples--all Handson\SingletonHnadson\obj\Debug\net5.0\SingletonHnadson.AssemblyInfoInputs.cache
+E:\handsonphase3\DesignPrinciples--all Handson\SingletonHnadson\obj\Debug\net5.0\SingletonHnadson.AssemblyInfo.cs
+E:\handsonphase3\DesignPrinciples--all Handson\SingletonHnadson\obj\Debug\net5.0\SingletonHnadson.csproj.CoreCompileInputs.cache
+E:\handsonphase3\DesignPrinciples--all Handson\SingletonHnadson\bin\Debug\net5.0\SingletonHnadson.exe
+E:\handsonphase3\DesignPrinciples--all Handson\SingletonHnadson\bin\Debug\net5.0\SingletonHnadson.deps.json
+E:\handsonphase3\DesignPrinciples--all Handson\SingletonHnadson\bin\Debug\net5.0\SingletonHnadson.runtimeconfig.json
+E:\handsonphase3\DesignPrinciples--all Handson\SingletonHnadson\bin\Debug\net5.0\SingletonHnadson.runtimeconfig.dev.json
+E:\handsonphase3\DesignPrinciples--all Handson\SingletonHnadson\bin\Debug\net5.0\SingletonHnadson.dll
+E:\handsonphase3\DesignPrinciples--all Handson\SingletonHnadson\bin\Debug\net5.0\ref\SingletonHnadson.dll
+E:\handsonphase3\DesignPrinciples--all Handson\SingletonHnadson\bin\Debug\net5.0\SingletonHnadson.pdb
+E:\handsonphase3\DesignPrinciples--all Handson\SingletonHnadson\obj\Debug\net5.0\SingletonHnadson.dll
+E:\handsonphase3\DesignPrinciples--all Handson\SingletonHnadson\obj\Debug\net5.0\ref\SingletonHnadson.dll
+E:\handsonphase3\DesignPrinciples--all Handson\SingletonHnadson\obj\Debug\net5.0\SingletonHnadson.pdb
+E:\handsonphase3\DesignPrinciples--all Handson\SingletonHnadson\obj\Debug\net5.0\SingletonHnadson.genruntimeconfig.cache

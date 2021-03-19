@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "SingletonHnadson/1.0.0": {
+        "runtime": {
+          "SingletonHnadson.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SingletonHnadson/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

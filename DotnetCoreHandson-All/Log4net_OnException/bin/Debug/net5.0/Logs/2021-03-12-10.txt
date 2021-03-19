@@ -1,0 +1,6 @@
+2021-03-12 12:10:00,712 [5] ERROR App  
+ Exception Occured in Privacy action  Of Home Controller 
+ 
+2021-03-12 12:10:06,422 [5] ERROR App  
+ Exception Occured in Privacy action  Of Home Controller 
+ 

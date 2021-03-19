@@ -76,10 +76,10 @@ namespace TestLibrary_FoodSupply
         [Test]
         [TestCase(10, "2021-05-07", "Restaurant_name", 50, 1050,null)]
         [TestCase(20, "2021-04-09", "Restaurant_name", 50, 2050,null)]
-       // [TestCase(5, "2021-07-07", "Restaurant_name", 50, 550,1)]
+        //[TestCase(5, "2021-07-07", "Restaurant_name", 50, 550,1)]
         public void CreateSupplyDetail_OnNullFoodDetail_ThrowsException(int foodItemCount, DateTime requestDate, string sellerName, double packingCharge,double expectedTotal,FoodDetail foodDetail)  
         {
-           
+            //foodDetail = new FoodDetail();
             var supplyDetail = program.CreateSupplyDetail(foodItemCount, requestDate, sellerName, packingCharge, foodDetail);
             Assert.IsNull(supplyDetail);
         }

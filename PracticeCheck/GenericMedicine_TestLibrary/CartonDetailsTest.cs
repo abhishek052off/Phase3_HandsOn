@@ -28,7 +28,7 @@ namespace GenericMedicine_TestLibrary
         [Test]
         [TestCase(10,"2021-10-05","Dummy Address",250)]
         [TestCase(20, "2021-10-05", "Dummy Address", 500)]
-        [TestCase(5, "2021-10-05", "Dummy Address", 125)]
+        [TestCase(5, "2021-10-05", "JUSEDGF", 125)]
         public void CreateCartonDetails_CorrectValues_ReturnValid(int medicinestripcount,
             DateTime LaunchDate, string retailerAddress, double ExpectedtotalAmount)
         {

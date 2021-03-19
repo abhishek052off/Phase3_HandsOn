@@ -20,12 +20,13 @@ namespace Log4net_OnException.Controllers
 
         public IActionResult Index()
         {
+            return View();
             throw new Exception("Exception Occured in Index action  Of Home Controller");
         }
 
         public IActionResult Privacy()
         {
-            return View();
+            throw new Exception("Exception Occured in Privacy action  Of Home Controller");
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
