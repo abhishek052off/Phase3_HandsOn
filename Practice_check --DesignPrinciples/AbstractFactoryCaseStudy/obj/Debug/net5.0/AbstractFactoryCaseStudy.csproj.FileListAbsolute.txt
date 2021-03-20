@@ -1,0 +1,16 @@
+E:\handsonphase3\Practice_check --DesignPrinciples\AbstractFactoryCaseStudy\bin\Debug\net5.0\AbstractFactoryCaseStudy.exe
+E:\handsonphase3\Practice_check --DesignPrinciples\AbstractFactoryCaseStudy\bin\Debug\net5.0\AbstractFactoryCaseStudy.deps.json
+E:\handsonphase3\Practice_check --DesignPrinciples\AbstractFactoryCaseStudy\bin\Debug\net5.0\AbstractFactoryCaseStudy.runtimeconfig.json
+E:\handsonphase3\Practice_check --DesignPrinciples\AbstractFactoryCaseStudy\bin\Debug\net5.0\AbstractFactoryCaseStudy.runtimeconfig.dev.json
+E:\handsonphase3\Practice_check --DesignPrinciples\AbstractFactoryCaseStudy\bin\Debug\net5.0\AbstractFactoryCaseStudy.dll
+E:\handsonphase3\Practice_check --DesignPrinciples\AbstractFactoryCaseStudy\bin\Debug\net5.0\ref\AbstractFactoryCaseStudy.dll
+E:\handsonphase3\Practice_check --DesignPrinciples\AbstractFactoryCaseStudy\bin\Debug\net5.0\AbstractFactoryCaseStudy.pdb
+E:\handsonphase3\Practice_check --DesignPrinciples\AbstractFactoryCaseStudy\obj\Debug\net5.0\AbstractFactoryCaseStudy.csprojAssemblyReference.cache
+E:\handsonphase3\Practice_check --DesignPrinciples\AbstractFactoryCaseStudy\obj\Debug\net5.0\AbstractFactoryCaseStudy.GeneratedMSBuildEditorConfig.editorconfig
+E:\handsonphase3\Practice_check --DesignPrinciples\AbstractFactoryCaseStudy\obj\Debug\net5.0\AbstractFactoryCaseStudy.AssemblyInfoInputs.cache
+E:\handsonphase3\Practice_check --DesignPrinciples\AbstractFactoryCaseStudy\obj\Debug\net5.0\AbstractFactoryCaseStudy.AssemblyInfo.cs
+E:\handsonphase3\Practice_check --DesignPrinciples\AbstractFactoryCaseStudy\obj\Debug\net5.0\AbstractFactoryCaseStudy.csproj.CoreCompileInputs.cache
+E:\handsonphase3\Practice_check --DesignPrinciples\AbstractFactoryCaseStudy\obj\Debug\net5.0\AbstractFactoryCaseStudy.dll
+E:\handsonphase3\Practice_check --DesignPrinciples\AbstractFactoryCaseStudy\obj\Debug\net5.0\ref\AbstractFactoryCaseStudy.dll
+E:\handsonphase3\Practice_check --DesignPrinciples\AbstractFactoryCaseStudy\obj\Debug\net5.0\AbstractFactoryCaseStudy.pdb
+E:\handsonphase3\Practice_check --DesignPrinciples\AbstractFactoryCaseStudy\obj\Debug\net5.0\AbstractFactoryCaseStudy.genruntimeconfig.cache

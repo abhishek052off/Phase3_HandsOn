@@ -1,0 +1,16 @@
+E:\handsonphase3\Final--check--DesignPrinciples\ObserverPatternCaseStudyFinal\bin\Debug\net5.0\ObserverPatternCaseStudyFinal.exe
+E:\handsonphase3\Final--check--DesignPrinciples\ObserverPatternCaseStudyFinal\bin\Debug\net5.0\ObserverPatternCaseStudyFinal.deps.json
+E:\handsonphase3\Final--check--DesignPrinciples\ObserverPatternCaseStudyFinal\bin\Debug\net5.0\ObserverPatternCaseStudyFinal.runtimeconfig.json
+E:\handsonphase3\Final--check--DesignPrinciples\ObserverPatternCaseStudyFinal\bin\Debug\net5.0\ObserverPatternCaseStudyFinal.runtimeconfig.dev.json
+E:\handsonphase3\Final--check--DesignPrinciples\ObserverPatternCaseStudyFinal\bin\Debug\net5.0\ObserverPatternCaseStudyFinal.dll
+E:\handsonphase3\Final--check--DesignPrinciples\ObserverPatternCaseStudyFinal\bin\Debug\net5.0\ref\ObserverPatternCaseStudyFinal.dll
+E:\handsonphase3\Final--check--DesignPrinciples\ObserverPatternCaseStudyFinal\bin\Debug\net5.0\ObserverPatternCaseStudyFinal.pdb
+E:\handsonphase3\Final--check--DesignPrinciples\ObserverPatternCaseStudyFinal\obj\Debug\net5.0\ObserverPatternCaseStudyFinal.csprojAssemblyReference.cache
+E:\handsonphase3\Final--check--DesignPrinciples\ObserverPatternCaseStudyFinal\obj\Debug\net5.0\ObserverPatternCaseStudyFinal.GeneratedMSBuildEditorConfig.editorconfig
+E:\handsonphase3\Final--check--DesignPrinciples\ObserverPatternCaseStudyFinal\obj\Debug\net5.0\ObserverPatternCaseStudyFinal.AssemblyInfoInputs.cache
+E:\handsonphase3\Final--check--DesignPrinciples\ObserverPatternCaseStudyFinal\obj\Debug\net5.0\ObserverPatternCaseStudyFinal.AssemblyInfo.cs
+E:\handsonphase3\Final--check--DesignPrinciples\ObserverPatternCaseStudyFinal\obj\Debug\net5.0\ObserverPatternCaseStudyFinal.csproj.CoreCompileInputs.cache
+E:\handsonphase3\Final--check--DesignPrinciples\ObserverPatternCaseStudyFinal\obj\Debug\net5.0\ObserverPatternCaseStudyFinal.dll
+E:\handsonphase3\Final--check--DesignPrinciples\ObserverPatternCaseStudyFinal\obj\Debug\net5.0\ref\ObserverPatternCaseStudyFinal.dll
+E:\handsonphase3\Final--check--DesignPrinciples\ObserverPatternCaseStudyFinal\obj\Debug\net5.0\ObserverPatternCaseStudyFinal.pdb
+E:\handsonphase3\Final--check--DesignPrinciples\ObserverPatternCaseStudyFinal\obj\Debug\net5.0\ObserverPatternCaseStudyFinal.genruntimeconfig.cache

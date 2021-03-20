@@ -1,0 +1,16 @@
+E:\handsonphase3\Final--check--DesignPrinciples\AbstractFactoryCaseStudyFinal\bin\Debug\net5.0\AbstractFactoryCaseStudyFinal.exe
+E:\handsonphase3\Final--check--DesignPrinciples\AbstractFactoryCaseStudyFinal\bin\Debug\net5.0\AbstractFactoryCaseStudyFinal.deps.json
+E:\handsonphase3\Final--check--DesignPrinciples\AbstractFactoryCaseStudyFinal\bin\Debug\net5.0\AbstractFactoryCaseStudyFinal.runtimeconfig.json
+E:\handsonphase3\Final--check--DesignPrinciples\AbstractFactoryCaseStudyFinal\bin\Debug\net5.0\AbstractFactoryCaseStudyFinal.runtimeconfig.dev.json
+E:\handsonphase3\Final--check--DesignPrinciples\AbstractFactoryCaseStudyFinal\bin\Debug\net5.0\AbstractFactoryCaseStudyFinal.dll
+E:\handsonphase3\Final--check--DesignPrinciples\AbstractFactoryCaseStudyFinal\bin\Debug\net5.0\ref\AbstractFactoryCaseStudyFinal.dll
+E:\handsonphase3\Final--check--DesignPrinciples\AbstractFactoryCaseStudyFinal\bin\Debug\net5.0\AbstractFactoryCaseStudyFinal.pdb
+E:\handsonphase3\Final--check--DesignPrinciples\AbstractFactoryCaseStudyFinal\obj\Debug\net5.0\AbstractFactoryCaseStudyFinal.csprojAssemblyReference.cache
+E:\handsonphase3\Final--check--DesignPrinciples\AbstractFactoryCaseStudyFinal\obj\Debug\net5.0\AbstractFactoryCaseStudyFinal.GeneratedMSBuildEditorConfig.editorconfig
+E:\handsonphase3\Final--check--DesignPrinciples\AbstractFactoryCaseStudyFinal\obj\Debug\net5.0\AbstractFactoryCaseStudyFinal.AssemblyInfoInputs.cache
+E:\handsonphase3\Final--check--DesignPrinciples\AbstractFactoryCaseStudyFinal\obj\Debug\net5.0\AbstractFactoryCaseStudyFinal.AssemblyInfo.cs
+E:\handsonphase3\Final--check--DesignPrinciples\AbstractFactoryCaseStudyFinal\obj\Debug\net5.0\AbstractFactoryCaseStudyFinal.csproj.CoreCompileInputs.cache
+E:\handsonphase3\Final--check--DesignPrinciples\AbstractFactoryCaseStudyFinal\obj\Debug\net5.0\AbstractFactoryCaseStudyFinal.dll
+E:\handsonphase3\Final--check--DesignPrinciples\AbstractFactoryCaseStudyFinal\obj\Debug\net5.0\ref\AbstractFactoryCaseStudyFinal.dll
+E:\handsonphase3\Final--check--DesignPrinciples\AbstractFactoryCaseStudyFinal\obj\Debug\net5.0\AbstractFactoryCaseStudyFinal.pdb
+E:\handsonphase3\Final--check--DesignPrinciples\AbstractFactoryCaseStudyFinal\obj\Debug\net5.0\AbstractFactoryCaseStudyFinal.genruntimeconfig.cache

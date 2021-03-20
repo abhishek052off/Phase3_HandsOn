@@ -5,3 +5,10 @@ C:\Users\abhis\Downloads\Compressed\SOLID_Principles-20210318T044450Z-001\SOLID_
 C:\Users\abhis\Downloads\Compressed\SOLID_Principles-20210318T044450Z-001\SOLID_Principles\obj\Debug\SOLID_Principles.csproj.CoreCompileInputs.cache
 C:\Users\abhis\Downloads\Compressed\SOLID_Principles-20210318T044450Z-001\SOLID_Principles\obj\Debug\SOLID_Principles.exe
 C:\Users\abhis\Downloads\Compressed\SOLID_Principles-20210318T044450Z-001\SOLID_Principles\obj\Debug\SOLID_Principles.pdb
+E:\handsonphase3\DesignPrinciples--all Handson\SOLID_Principles-day01\SOLID_Principles\bin\Debug\SOLID_Principles.exe.config
+E:\handsonphase3\DesignPrinciples--all Handson\SOLID_Principles-day01\SOLID_Principles\bin\Debug\SOLID_Principles.exe
+E:\handsonphase3\DesignPrinciples--all Handson\SOLID_Principles-day01\SOLID_Principles\bin\Debug\SOLID_Principles.pdb
+E:\handsonphase3\DesignPrinciples--all Handson\SOLID_Principles-day01\SOLID_Principles\obj\Debug\SOLID_Principles.csprojAssemblyReference.cache
+E:\handsonphase3\DesignPrinciples--all Handson\SOLID_Principles-day01\SOLID_Principles\obj\Debug\SOLID_Principles.csproj.CoreCompileInputs.cache
+E:\handsonphase3\DesignPrinciples--all Handson\SOLID_Principles-day01\SOLID_Principles\obj\Debug\SOLID_Principles.exe
+E:\handsonphase3\DesignPrinciples--all Handson\SOLID_Principles-day01\SOLID_Principles\obj\Debug\SOLID_Principles.pdb
