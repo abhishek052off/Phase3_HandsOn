@@ -5,10 +5,10 @@ namespace ObserverPatternCaseStudyFinal
 {
 
     /*
-     *  create An Event... 
-     * even has tickets 
-     * make normal subscriber and admin observers
-     * if tickets more than 100 send notification to admin
+     *  create An Event...each event has notification service 
+     * event has tickets count
+     * customer buys ticket
+     * if total tickets more than 100 send notification to admin
      */
 
 
@@ -34,7 +34,7 @@ namespace ObserverPatternCaseStudyFinal
 
             if(this.TicketCount > 100)
             {
-                this.NotificationService.TriggerNotification($"Over 100 Tickets Sold For the Even {this.EventName}");
+                this.NotificationService.TriggerNotification($"Over 100 Tickets Sold For the Event -- {this.EventName}");
             }
         }
     }
