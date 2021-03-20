@@ -5,7 +5,6 @@ E:\handsonphase3\Practice_check --DesignPrinciples\ObserverPatternCaseStudy\bin\
 E:\handsonphase3\Practice_check --DesignPrinciples\ObserverPatternCaseStudy\bin\Debug\net5.0\ObserverPatternCaseStudy.dll
 E:\handsonphase3\Practice_check --DesignPrinciples\ObserverPatternCaseStudy\bin\Debug\net5.0\ref\ObserverPatternCaseStudy.dll
 E:\handsonphase3\Practice_check --DesignPrinciples\ObserverPatternCaseStudy\bin\Debug\net5.0\ObserverPatternCaseStudy.pdb
-E:\handsonphase3\Practice_check --DesignPrinciples\ObserverPatternCaseStudy\obj\Debug\net5.0\ObserverPatternCaseStudy.csprojAssemblyReference.cache
 E:\handsonphase3\Practice_check --DesignPrinciples\ObserverPatternCaseStudy\obj\Debug\net5.0\ObserverPatternCaseStudy.GeneratedMSBuildEditorConfig.editorconfig
 E:\handsonphase3\Practice_check --DesignPrinciples\ObserverPatternCaseStudy\obj\Debug\net5.0\ObserverPatternCaseStudy.AssemblyInfoInputs.cache
 E:\handsonphase3\Practice_check --DesignPrinciples\ObserverPatternCaseStudy\obj\Debug\net5.0\ObserverPatternCaseStudy.AssemblyInfo.cs
